@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/justkrypticAsh/Daily_code/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/justkrypticAsh/Daily_code/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/justkrypticAsh/Daily_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/justkrypticAsh/Daily_code/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/justkrypticAsh/Daily_code/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/justkrypticAsh/Daily_code/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/justkrypticAsh/Daily_code/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/justkrypticAsh/Daily_code/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
