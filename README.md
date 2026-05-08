@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/justkrypticAsh/Daily_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/justkrypticAsh/Daily_code/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/justkrypticAsh/Daily_code/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/justkrypticAsh/Daily_code/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/justkrypticAsh/Daily_code/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/justkrypticAsh/Daily_code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/justkrypticAsh/Daily_code/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/justkrypticAsh/Daily_code/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/justkrypticAsh/Daily_code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/justkrypticAsh/Daily_code/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## String
@@ -43,8 +45,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/justkrypticAsh/Daily_code/tree/master/0048-rotate-image) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/justkrypticAsh/Daily_code/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/justkrypticAsh/Daily_code/tree/master/0048-rotate-image) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/justkrypticAsh/Daily_code/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/justkrypticAsh/Daily_code/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
