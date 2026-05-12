@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/justkrypticAsh/Daily_code/tree/master/0048-rotate-image) |
+| [0509-fibonacci-number](https://github.com/justkrypticAsh/Daily_code/tree/master/0509-fibonacci-number) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/justkrypticAsh/Daily_code/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Matrix
 |  |
@@ -58,4 +59,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/justkrypticAsh/Daily_code/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/justkrypticAsh/Daily_code/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/justkrypticAsh/Daily_code/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/justkrypticAsh/Daily_code/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
