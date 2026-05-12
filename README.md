@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/justkrypticAsh/Daily_code/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/justkrypticAsh/Daily_code/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/justkrypticAsh/Daily_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0238-product-of-array-except-self](https://github.com/justkrypticAsh/Daily_code/tree/master/0238-product-of-array-except-self) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/justkrypticAsh/Daily_code/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/justkrypticAsh/Daily_code/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/justkrypticAsh/Daily_code/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/justkrypticAsh/Daily_code/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/justkrypticAsh/Daily_code/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
