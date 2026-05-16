@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/justkrypticAsh/Daily_code/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/justkrypticAsh/Daily_code/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/justkrypticAsh/Daily_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/justkrypticAsh/Daily_code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/justkrypticAsh/Daily_code/tree/master/0238-product-of-array-except-self) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/justkrypticAsh/Daily_code/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/justkrypticAsh/Daily_code/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -89,5 +90,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/justkrypticAsh/Daily_code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0400-nth-digit](https://github.com/justkrypticAsh/Daily_code/tree/master/0400-nth-digit) |
 <!---LeetCode Topics End-->
