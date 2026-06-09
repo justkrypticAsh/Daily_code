@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/justkrypticAsh/Daily_code/tree/master/0014-longest-common-prefix) |
+| [1143-longest-common-subsequence](https://github.com/justkrypticAsh/Daily_code/tree/master/1143-longest-common-subsequence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/justkrypticAsh/Daily_code/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/justkrypticAsh/Daily_code/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Trie
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/justkrypticAsh/Daily_code/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/justkrypticAsh/Daily_code/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
