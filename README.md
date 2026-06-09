@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/justkrypticAsh/Daily_code/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/justkrypticAsh/Daily_code/tree/master/0062-unique-paths) |
 | [0400-nth-digit](https://github.com/justkrypticAsh/Daily_code/tree/master/0400-nth-digit) |
 | [0509-fibonacci-number](https://github.com/justkrypticAsh/Daily_code/tree/master/0509-fibonacci-number) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/justkrypticAsh/Daily_code/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/justkrypticAsh/Daily_code/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/justkrypticAsh/Daily_code/tree/master/0120-triangle) |
 | [0509-fibonacci-number](https://github.com/justkrypticAsh/Daily_code/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/justkrypticAsh/Daily_code/tree/master/0516-longest-palindromic-subsequence) |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/justkrypticAsh/Daily_code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0400-nth-digit](https://github.com/justkrypticAsh/Daily_code/tree/master/0400-nth-digit) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/justkrypticAsh/Daily_code/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
